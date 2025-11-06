@@ -1,5 +1,3 @@
-Oh, Look Who's Curious Now! 👀
-Welcome, stalker! You’ve probably seen my recent post flaunting my 1672 GitHub contributions and thought, “This person must be up to something interesting!” Well, you’re in luck... because here you are, in my one and only public repository.
 
 About Me
 I’m just your average, humble developer who happens to code more often than I sleep. Nothing unusual about that, right? I’ve been deep in the code trenches, silently building, debugging, and occasionally banging my head against the keyboard.
